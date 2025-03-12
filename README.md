@@ -9,6 +9,8 @@
 - User-friendly interface with responsive design
 - Offline mode for uninterrupted practice
 
+![App Screenshot](image.png)
+
 ## How to Clone or Use
 
 To clone the repository, use the following command:
